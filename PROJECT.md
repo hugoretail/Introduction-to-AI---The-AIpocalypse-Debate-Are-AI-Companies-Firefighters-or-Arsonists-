@@ -51,5 +51,6 @@ Organize your presentation as a structured debate, allowing different perspectiv
 
 - Drive: https://drive.google.com/drive/folders/18Y7LicErHyQw6aDt6IjdGdFIOC4Roj3G?usp=sharing
 - Slides: https://canva.link/pgrnf4qy1axjejg
-- Presentators: Hugo, Oleg, Alex
-- Introduction 
+- Presentators: Hugo R., Oleg, Alex
+- Structure of slides: TODO
+- Reviewers and report writers: Brendan, Nathan, Hugo S.
