@@ -25,7 +25,7 @@ Tuesday, December 1
 
     Final group project presentations, accounting for 25% of the final course grade.
 
-    Each group will have approximately 10 minutes to present its project, followed by a short question-and-answer session.
+    Each group will have approximately 10 - 15 minutes to present its project, followed by a short question-and-answer session.
 
     Given the limited presentation time, only 2 or 3 students per group will deliver the oral presentation. However, all group members are expected to contribute actively to the project.
 
@@ -34,51 +34,6 @@ Each group must also submit a two-page report describing its collaborative work:
     Page 1: A brief overview of how the group organized and carried out the project, including the work completed collectively.
 
     Page 2: A short individual paragraph for each group member, explaining their specific contributions to the project.
-
-2. Final Written Examination
-
-The final written examination will take place on:
-
-Thursday, December 10, 2026, from 10:00 a.m. to 12:00 p.m.
-
-The examination will account for 75% of the final course grade.
-
-It will cover the main topics studied throughout the course and may include theoretical questions, critical-thinking questions, logic exercises, and knowledge representation and reasoning using Prolog.
-3. Group Project Registration — Important Deadline
-
-Please log in to the university's ENT platform, access Moodle, and open the course Introduction to Artificial Intelligence.
-
-Under the "Student Mini-Projects" section, select "Group Project Registration."
-
-You must register for one of the eight proposed project topics (Groups 1–8) by:
-
-Monday, November 16, 2026, at 12:00 Noon (French Local Time).
-
-Each project group must consist of 5 or 6 students, with a strict maximum of 6 students per group.
-
-Group composition is subject to instructor approval. Groups should be sufficiently diverse and balanced in terms of academic background (students from both the DSC and MLDM Master's programs), gender (where possible), and cultural and international background (French and international students).
-
-The aim is to encourage collaboration among students with different academic backgrounds, experiences, and perspectives.
-
-Please note that groups that do not meet these requirements may be reorganized to ensure a more balanced distribution of students.
-4. Special Cases — Category 9
-
-Students enrolled under the special examination regime (régime terminal), or those unable to participate in group projects due to professional obligations or other justified circumstances, should select Category 9 instead.
-
-For these students, the group project component will not apply. Their final course grade will be based entirely on the written examination (100%), instead of the standard assessment scheme:
-
-Standard assessment: Group project (25%) + Written examination (75%).
-
-Category 9 assessment: Written examination only (100%).
-
-Please make sure you complete your registration before the deadline, so that the groups can be finalized before our next session.
-
-I look forward to seeing your projects and discussing your ideas during our final classes.
-
-Best regards,
-
-FM
--------------------------------------------------------------------- 
 
 # Description
 
@@ -91,3 +46,10 @@ Investigate the arguments on both sides, examining the tension between technolog
 Support your analysis with concrete examples, statements from AI researchers and industry leaders, and credible sources. Distinguish between current, documented harms and hypothetical long-term catastrophic scenarios.
 
 Organize your presentation as a structured debate, allowing different perspectives to confront one another, and conclude by discussing what responsibilities AI companies, researchers, governments, and society should assume in shaping the future of artificial intelligence.
+
+## TODO
+
+- Drive: https://drive.google.com/drive/folders/18Y7LicErHyQw6aDt6IjdGdFIOC4Roj3G?usp=sharing
+- Slides: https://canva.link/pgrnf4qy1axjejg
+- Presentators: Hugo, Oleg, Alex
+- Introduction 
